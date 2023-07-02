@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559781702081",
+    "project_id": "unigateflu",
+    "storage_bucket": "unigateflu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559781702081:android:f27306504474a487e6e740",
+        "android_client_info": {
+          "package_name": "com.example.unigate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559781702081-jm2kj8hpdrekjs19gg0jbgpmpvuvtk9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgDvLiA6onmmwb4ZGof6tdPV8we-HLOxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559781702081-jm2kj8hpdrekjs19gg0jbgpmpvuvtk9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
